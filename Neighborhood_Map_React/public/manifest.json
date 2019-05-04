@@ -1,0 +1,8 @@
+{
+  "short_name": "Harburg",
+  "name": "Harburg Neighbourhood Map",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#696969",
+  "background_color": "#ffffff"
+}

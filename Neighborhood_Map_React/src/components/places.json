@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Harburger Stadtpark",
+    "type": "Park",
+    "latitude": 53.44890,
+    "longitude": 9.97508
+  },
+  {
+    "name": "Lohmühlenteich",
+    "type": "Park",
+    "latitude": 53.45441,
+    "longitude": 9.96744
+  },
+  {
+    "name": "Irish Pub",
+    "type": "Bar",
+    "latitude": 53.46357,
+    "longitude": 9.98050
+  },
+  {
+    "name": "Kulturcafé Komm du",
+    "type": "Bar",
+    "latitude": 53.46528,
+    "longitude": 9.97607
+  },
+  {
+    "name": "Sammlung Falckenberg",
+    "type": "Museum",
+    "latitude": 53.4552312,
+    "longitude": 9.987543200000005
+  },
+  {
+    "name": "Harburger Theater",
+    "type": "Theater",
+    "latitude": 53.459133,
+    "longitude": 9.977280
+  }
+]
